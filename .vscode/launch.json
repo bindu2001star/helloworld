@@ -7,7 +7,7 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "open yellow1.html",
+            "name": "open javasrc.html",
             "url": "C:\\Users\\sambangi hima bindu\\Desktop\\yellow\\yellow1.html",
             
         }
